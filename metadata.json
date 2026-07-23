@@ -1,0 +1,6 @@
+{
+  "name": "Lun.ai",
+  "description": "Controle financeiro inteligente com tabelas estilo planilha, parcelamentos automáticos e consultor de gastos com IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
